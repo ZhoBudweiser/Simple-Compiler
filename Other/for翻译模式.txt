@@ -1,0 +1,43 @@
+1)S->f(N0 W) N1 X	{ backpatch(W.truelist,N1.quad);
+		  backpatch(X.nextlist,N3.quad);
+		  S.nextlist:=W.falselist
+		  emit('j, -, -,' N3.quad) }
+2)W->A;N2B;N3D	{ W.truelist:=B.truelist;
+		  W.falselist:=B.falselist;
+		  backpatch(D.nextlist,N2.quad); }
+3)A->id=E	{ emit('=' ',' E.place ',' '-' ',' id.name) }
+4)E->id		{ E.place:=id.name }
+5)B->id1 relop id2	{ B.truelist:=makelist(nextquad);
+		  B.faslelist:=makelist(nextquad+1);
+		  emit('j'relop.op', 'id1.name','id2.name',' '-');
+		  emit('j, -, -, -') }
+6)D->id++	{ D.nextlist:=makelist(nextquad+1);
+		  emit('+, id.name, 1, id.name') ;
+		  emit('j, -, -, -') }
+7)D->id--		{ D.nextlist:=makelist(nextquad+1);
+		  emit('-, id.name, 1, id.name') ;
+		  emit('j, -, -, -') }
+8)X->A;		{ A.nextlist:=makelist();
+		  X.nextlist:=A.nextlist; }
+9)X->{M}		{ X.nextlist:=M.nextlist }
+10)M->M1 N4 A;	{ A.nextlist:=makelist();
+		  M.nextlist:=A.nextlist; }
+11)M->A;		{ A.nextlist:=makelist();
+		  M.nextlist:=A.nextlist; }
+12)N->ε		{ N.quad:=nextquad }
+13)E->E1+E2	{ E.place:=newtemp;
+		  emit('+' ',' E1.place ',' E2.place ',' E.place) }
+--------------------------------------------------------------------------
+1)S->f(NW)NX
+2)W->A;NB;ND
+3)A->i=E
+4)E->i
+5)B->i<i
+6)D->i++
+7)D->i--
+8)X->A;
+9)X->{M}
+10)M->MNA;
+11)M->A;	
+12)N->ε
+13)E->E+E

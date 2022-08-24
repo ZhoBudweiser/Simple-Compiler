@@ -1,0 +1,15 @@
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\bin\Debug\netcoreapp3.1\翻译器.exe
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\bin\Debug\netcoreapp3.1\翻译器.deps.json
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\bin\Debug\netcoreapp3.1\翻译器.runtimeconfig.json
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\bin\Debug\netcoreapp3.1\翻译器.runtimeconfig.dev.json
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\bin\Debug\netcoreapp3.1\翻译器.dll
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\bin\Debug\netcoreapp3.1\翻译器.pdb
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\翻译器.csproj.AssemblyReference.cache
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\翻译器.csproj.GenerateResource.cache
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\翻译器.AssemblyInfoInputs.cache
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\翻译器.AssemblyInfo.cs
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\翻译器.csproj.CoreCompileInputs.cache
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\翻译器.dll
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\翻译器.pdb
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\翻译器.genruntimeconfig.cache
+C:\Users\hw\Desktop\编译原理课程设计\翻译器\obj\Debug\netcoreapp3.1\编译翻译器.Display.resources

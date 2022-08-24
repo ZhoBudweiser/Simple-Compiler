@@ -1,0 +1,15 @@
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\bin\Debug\netcoreapp3.1\LL(1)分析.exe
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\bin\Debug\netcoreapp3.1\LL(1)分析.deps.json
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\bin\Debug\netcoreapp3.1\LL(1)分析.runtimeconfig.json
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\bin\Debug\netcoreapp3.1\LL(1)分析.runtimeconfig.dev.json
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\bin\Debug\netcoreapp3.1\LL(1)分析.dll
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\bin\Debug\netcoreapp3.1\LL(1)分析.pdb
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL(1)分析.csprojAssemblyReference.cache
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL_1_分析.Form1.resources
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL(1)分析.csproj.GenerateResource.cache
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL(1)分析.AssemblyInfoInputs.cache
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL(1)分析.AssemblyInfo.cs
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL(1)分析.csproj.CoreCompileInputs.cache
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL(1)分析.dll
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL(1)分析.pdb
+C:\Users\hw\Desktop\编译原理\实验\实验二\LL(1)分析法\obj\Debug\netcoreapp3.1\LL(1)分析.genruntimeconfig.cache
